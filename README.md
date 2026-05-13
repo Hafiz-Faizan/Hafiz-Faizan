@@ -39,41 +39,18 @@ Building production-grade, scalable web applications for enterprise clients.
 
 ---
 
-## 💼 Featured Projects
-
-### 🏏 Athlete Management System — PCB
-> Injury & fitness tracking platform used by Pakistan Cricket Board's national squad
-- Role-based REST APIs for physiotherapists, medical staff & coaches
-- 30% reduction in player data retrieval time via query optimization
-- **Stack:** Next.js · Node.js · MySQL · AWS (EC2, S3, Load Balancer, WAF)
-
----
-
-### 📊 CricSchool — Cricket Analytics Platform
-> Enterprise cricket analytics & match intelligence system for PCB
-- Pitch maps, shot maps, performance trend graphs & video highlights
-- High concurrency AWS infrastructure with fault tolerance
-- **Stack:** React.js · Node.js · MySQL · AWS (EC2, S3, Load Balancer, WAF)
-
----
-
-### 🏢 CRM System — Enterprise Operational Platform
-> Internal CRM handling employee lifecycle, cost tracking & operational reporting
-- Real-time user activity tracking & role-based access control
-- **Stack:** React.js · Node.js · MongoDB · JWT
-
----
-
 ## 📈 GitHub Stats
 
-![Hafiz Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hafiz-Faizan&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Hafiz-Faizan&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hafiz-Faizan&layout=compact&theme=dark&hide_border=true)
+
+![](https://komarev.com/ghpvc/?username=Hafiz-Faizan&color=blue&style=for-the-badge)
 
 ---
 
 ## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fazi4066745@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-faizan-ahmad/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hafiz-Faizan)
